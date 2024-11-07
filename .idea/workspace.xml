@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/NumberPalindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/PracticeOperators.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/PracticeVars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/SimpleCalculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/palindromeCheck.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/primeNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/starPattern.java" afterDir="false" />
@@ -64,6 +65,7 @@
     "Application.NumberPrinter.executor": "Run",
     "Application.PracticeOperators.executor": "Run",
     "Application.PracticeVars.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
     "Application.fibonnaciSeries.executor": "Run",
     "Application.numberPalindrome.executor": "Run",
     "Application.palindromeCheck.executor": "Run",
@@ -108,7 +110,7 @@
       <workItem from="1730951324759" duration="1791000" />
       <workItem from="1730965930975" duration="1085000" />
       <workItem from="1730969279701" duration="650000" />
-      <workItem from="1730991158413" duration="3452000" />
+      <workItem from="1730991158413" duration="3750000" />
     </task>
     <servers />
   </component>
