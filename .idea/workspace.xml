@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/ControlFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/PracticeOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/PracticeVars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/palindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/primeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/starPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/sumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentGrading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +52,15 @@
   "keyToString": {
     "Application.ControlFlow.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.Gradind.executor": "Run",
+    "Application.Grading.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumberPalindrome.executor": "Run",
     "Application.NumberPrinter.executor": "Run",
     "Application.PracticeOperators.executor": "Run",
     "Application.PracticeVars.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
+    "Application.StudentGrading.executor": "Run",
     "Application.fibonnaciSeries.executor": "Run",
     "Application.numberPalindrome.executor": "Run",
     "Application.palindromeCheck.executor": "Run",
@@ -73,7 +68,7 @@
     "Application.starPattern.executor": "Run",
     "Application.sumOfDigits.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -110,7 +105,9 @@
       <workItem from="1730951324759" duration="1791000" />
       <workItem from="1730965930975" duration="1085000" />
       <workItem from="1730969279701" duration="650000" />
-      <workItem from="1730991158413" duration="3750000" />
+      <workItem from="1730991158413" duration="4189000" />
+      <workItem from="1730995816449" duration="10000" />
+      <workItem from="1731038265983" duration="11106000" />
     </task>
     <servers />
   </component>
