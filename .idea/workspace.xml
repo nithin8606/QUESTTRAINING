@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentGrading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbms/hotel.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbms/savepoint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbms/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/SalaryManagement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentGrading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentGrading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,41 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ControlFlow.executor": "Run",
-    "Application.FibonacciSeries.executor": "Run",
-    "Application.Gradind.executor": "Run",
-    "Application.Grading.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NumberPalindrome.executor": "Run",
-    "Application.NumberPrinter.executor": "Run",
-    "Application.PracticeOperators.executor": "Run",
-    "Application.PracticeVars.executor": "Run",
-    "Application.SimpleCalculator.executor": "Run",
-    "Application.StudentGrading.executor": "Run",
-    "Application.fibonnaciSeries.executor": "Run",
-    "Application.numberPalindrome.executor": "Run",
-    "Application.palindromeCheck.executor": "Run",
-    "Application.primeNumber.executor": "Run",
-    "Application.starPattern.executor": "Run",
-    "Application.sumOfDigits.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "I:/Questtraining/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ControlFlow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gradind.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeVars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonnaciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numberPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindromeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.starPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;I:/Questtraining/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,6 +112,9 @@
       <workItem from="1730991158413" duration="4189000" />
       <workItem from="1730995816449" duration="10000" />
       <workItem from="1731038265983" duration="11106000" />
+      <workItem from="1731200794128" duration="4532000" />
+      <workItem from="1731394220331" duration="4126000" />
+      <workItem from="1731407050043" duration="1736000" />
     </task>
     <servers />
   </component>

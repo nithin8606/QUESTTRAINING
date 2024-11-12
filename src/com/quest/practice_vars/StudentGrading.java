@@ -69,6 +69,6 @@ public class StudentGrading {
             System.out.println("Warning: Needs improvement in individual subjects.");
         }
 
-        sc.close();
+
     }
 }
