@@ -51,40 +51,33 @@ public class StudentScores {
         for (int i = 0; i < names.length; i++) {
             averages[i] = (double) calculateTotal(scores[i]) / scores[i].length;
         }
-
         for (int i = 0; i < names.length; i++) {
             for (int j = i + 1; j < names.length; j++) {
                 if (averages[i] < averages[j]) {
-
                     double tempAvg = averages[i];
                     averages[i] = averages[j];
                     averages[j] = tempAvg;
-
                     String tempName = names[i];
                     names[i] = names[j];
                     names[j] = tempName;
-                }
-            }
+                }}
         }
         System.out.println("\nRanking students by average score:");
         for (int i = 0; i < names.length; i++) {
             System.out.println(names[i] + " - Average Score: " + averages[i]);
-        }
-    }
+        }}
     public static void detectMissingData(String[] names, int[][] scores) {
         System.out.println("\nDetecting Missing Data:");
         for (int i = 0; i < names.length; i++) {
-            boolean hasMissingData = false;
+            boolean missingdata = false;
             for (int j = 0; j < scores[i].length; j++) {
                 if (scores[i][j] == -1) {
-                    hasMissingData = true;
+                    missingdata = true;
                     System.out.println(names[i] + " has missing score for subject " + (j + 1));
-                }
-            }
-            if (!hasMissingData) {
+                }}
+            if (!missingdata) {
                 System.out.println(names[i] + " has no missing data.");
-            }
-        }
+            }}
     }
     public static int calculateTotal(int[] scores) {
         int total = 0;

@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/MatrixArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/Searcharray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/arrayexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/methodexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/sortarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/typecastingeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/wrapperclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/CountOfLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/DuplicateCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentGrading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentScores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +52,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ControlFlow.executor": "Run",
+    "Application.CountOfLetters.executor": "Run",
+    "Application.DuplicateCount.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.Gradind.executor": "Run",
     "Application.Grading.executor": "Run",
@@ -128,7 +124,9 @@
       <workItem from="1731469323509" duration="1187000" />
       <workItem from="1731471022044" duration="167000" />
       <workItem from="1731471198060" duration="245000" />
-      <workItem from="1731557161162" duration="12028000" />
+      <workItem from="1731557161162" duration="12370000" />
+      <workItem from="1731574096442" duration="5506000" />
+      <workItem from="1731584334028" duration="1392000" />
     </task>
     <servers />
   </component>
