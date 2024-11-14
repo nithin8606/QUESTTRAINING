@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/MatrixArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/Searcharray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/arrayexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/methodexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/sortarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/typecastingeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/wrapperclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/practice_vars/StudentGrading.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,42 +55,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ControlFlow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gradind.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeVars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentGrading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonnaciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.numberPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindromeCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.salary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;I:/Questtraining/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ControlFlow.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.Gradind.executor": "Run",
+    "Application.Grading.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MatrixArray.executor": "Run",
+    "Application.NumberPalindrome.executor": "Run",
+    "Application.NumberPrinter.executor": "Run",
+    "Application.PracticeOperators.executor": "Run",
+    "Application.PracticeVars.executor": "Run",
+    "Application.Searcharray.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.StudentGrading.executor": "Run",
+    "Application.StudentScores.executor": "Run",
+    "Application.arrayexample.executor": "Run",
+    "Application.fibonnaciSeries.executor": "Run",
+    "Application.numberPalindrome.executor": "Run",
+    "Application.palindromeCheck.executor": "Run",
+    "Application.primeNumber.executor": "Run",
+    "Application.salary.executor": "Run",
+    "Application.sortarray.executor": "Run",
+    "Application.starPattern.executor": "Run",
+    "Application.studentscore.executor": "Run",
+    "Application.sumOfDigits.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "I:/Questtraining/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -113,6 +128,7 @@
       <workItem from="1731469323509" duration="1187000" />
       <workItem from="1731471022044" duration="167000" />
       <workItem from="1731471198060" duration="245000" />
+      <workItem from="1731557161162" duration="12028000" />
     </task>
     <servers />
   </component>
