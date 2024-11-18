@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/AbstractExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/OfflineStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/OnlineStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/RegularStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/CommodityStockAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/EquityStockAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/StockAnalysisProgram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/StockAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/ReplaceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/practice_vars/SecondLargestOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractExample.executor": "Run",
     "Application.ControlFlow.executor": "Run",
     "Application.CountOfLetters.executor": "Run",
     "Application.DuplicateCount.executor": "Run",
@@ -73,11 +68,16 @@
     "Application.NumberPrinter.executor": "Run",
     "Application.PracticeOperators.executor": "Run",
     "Application.PracticeVars.executor": "Run",
+    "Application.ReplaceSum.executor": "Run",
     "Application.Searcharray.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
+    "Application.StockAccessment.executor": "Run",
+    "Application.StockAnalysisProgram.executor": "Run",
+    "Application.StockAnalysisProgram1.executor": "Run",
     "Application.StudentGrading.executor": "Run",
     "Application.StudentScores.executor": "Run",
     "Application.arrayexample.executor": "Run",
+    "Application.com.quest.practice_vars.StockAccessment.executor": "Run",
     "Application.fibonnaciSeries.executor": "Run",
     "Application.main.executor": "Debug",
     "Application.numberPalindrome.executor": "Run",
@@ -105,13 +105,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AbstractExample">
-    <configuration name="AbstractExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.abstraction.AbstractExample" />
+  <component name="RunManager" selected="Application.StockAnalysisProgram1">
+    <configuration name="ReplaceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.practice_vars.ReplaceSum" />
       <module name="Questtraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quest.oops.abstraction.*" />
+          <option name="PATTERN" value="com.quest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +119,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.inheritance.Main" />
+    <configuration name="StockAccessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.StockAccessment" />
+      <module name="Questtraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockAccessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.StockAccessment" />
+      <module name="Questtraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockAnalysisProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.practice_vars.StockAnalysisProgram" />
       <module name="Questtraining" />
       <extension name="coverage">
         <pattern>
@@ -132,21 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.inheritance.Main1" />
-      <module name="Questtraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.quest.oops.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.inheritance.test" />
+    <configuration name="StockAnalysisProgram1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.oops.inheritance.StockAnalysisProgram1" />
       <module name="Questtraining" />
       <extension name="coverage">
         <pattern>
@@ -160,10 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractExample" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StockAnalysisProgram1" />
+        <item itemvalue="Application.StockAnalysisProgram" />
+        <item itemvalue="Application.com.quest.practice_vars.StockAccessment" />
+        <item itemvalue="Application.StockAccessment" />
+        <item itemvalue="Application.ReplaceSum" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +221,9 @@
       <workItem from="1731647715711" duration="2289000" />
       <workItem from="1731650028975" duration="750000" />
       <workItem from="1731650936064" duration="4759000" />
+      <workItem from="1731660620702" duration="633000" />
+      <workItem from="1731670977896" duration="1579000" />
+      <workItem from="1731902221548" duration="4244000" />
     </task>
     <servers />
   </component>
