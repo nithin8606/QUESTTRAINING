@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class StockAnalysisProgram1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         // Equity Stock
         System.out.println("Enter details for Equity Stock:");
         System.out.print("Stock Name: ");
@@ -21,10 +20,8 @@ public class StockAnalysisProgram1 {
         for (int i = 0; i < days; i++) {
             equityPrices[i] = scanner.nextInt();
         }
-
         // Equity Stock Analyzer
-        StockAnalyzer equityStock = new EquityStockAnalyzer(equityName, equitySymbol, sector, equityPrices);
-
+        Stock equityStock = new Equity(equityName, equitySymbol, sector, equityPrices);
         // Commodity Stock
         scanner.nextLine(); // Consume the leftover newline
         System.out.println("\nEnter details for Commodity Stock:");
@@ -41,19 +38,15 @@ public class StockAnalysisProgram1 {
         for (int i = 0; i < days; i++) {
             commodityPrices[i] = scanner.nextInt();
         }
-
         // Commodity Stock Analyzer
-        StockAnalyzer commodityStock = new CommodityStockAnalyzer(commodityName, commoditySymbol, commodityType, commodityPrices);
-
-
+        Stock commodityStock = new Commodity(commodityName, commoditySymbol, commodityType, commodityPrices);
         System.out.println("\nEquity Stock Analysis:");
         equityStock.displayAnalysis();
         System.out.println("\nCommodity Stock Analysis:");
         commodityStock.displayAnalysis();
-
         // Compare average prices
-        double equityAvg = equityStock.calculateAveragePrice();
-        double commodityAvg = commodityStock.calculateAveragePrice();
+        double equityAvg = equityStock.AveragePrice();
+        double commodityAvg = commodityStock.AveragePrice();
         System.out.println("\nAverage Price Comparison:");
         if (equityAvg > commodityAvg) {
             System.out.println("Equity Stock has the highest average price.");
@@ -62,10 +55,9 @@ public class StockAnalysisProgram1 {
         } else {
             System.out.println("Both stocks have the same average price.");
         }
-
         // Compare longest increasing trend
-        int[] equityTrend = equityStock.findLongestIncreasingTrend();
-        int[] commodityTrend = commodityStock.findLongestIncreasingTrend();
+        int[] equityTrend = equityStock.IncreasingTrend();
+        int[] commodityTrend = commodityStock.IncreasingTrend();
         System.out.println("\nLongest Increasing Trend Comparison:");
         if (equityTrend[2] > commodityTrend[2]) {
             System.out.println("Equity Stock has the longest increasing trend.");
