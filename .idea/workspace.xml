@@ -12,11 +12,12 @@
       <change afterPath="$PROJECT_DIR$/src/com/quest/oops/encapsulation/SavingsAccount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/oops/encapsulation/Transaction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/quest/oops/encapsulation/Withdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Stock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/quest/oops/inheritance/CommodityStockAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Commodity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/quest/oops/inheritance/EquityStockAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Equity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/quest/oops/inheritance/StockAnalysisProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/StockAnalysisProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/inheritance/StockAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/inheritance/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/inheritance/StockAnalyzer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +243,7 @@
       <workItem from="1731660620702" duration="633000" />
       <workItem from="1731670977896" duration="1579000" />
       <workItem from="1731902221548" duration="9435000" />
-      <workItem from="1731987446264" duration="11705000" />
+      <workItem from="1731987446264" duration="12074000" />
     </task>
     <servers />
   </component>
