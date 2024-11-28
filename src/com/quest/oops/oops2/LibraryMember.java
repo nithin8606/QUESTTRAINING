@@ -1,4 +1,5 @@
 package com.quest.oops.oops2;
+
 public class LibraryMember {
     private String memberId;
     private String name;
@@ -9,14 +10,21 @@ public class LibraryMember {
         this.name = name;
         this.contactInfo = contactInfo;
     }
+
     public String getMemberId() {
         return memberId;
     }
+
     public String getName() {
         return name;
     }
+
     public String getContactInfo() {
         return contactInfo;
     }
-}
 
+    @Override
+    public String toString() {
+        return "LibraryMember [ID=" + memberId + ", Name=" + name + ", Contact=" + contactInfo + "]";
+    }
+}

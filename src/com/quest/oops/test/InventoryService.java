@@ -1,4 +1,4 @@
-package com.quest.oops.exceptionhandling;
+package com.quest.oops.test;
 
 public class InventoryService {
 

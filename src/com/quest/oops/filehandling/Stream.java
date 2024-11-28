@@ -1,8 +1,5 @@
 package com.quest.oops.filehandling;
 
-
-package com.quest.filehandling;
-
 import java.io.*;
 
 public class Stream {

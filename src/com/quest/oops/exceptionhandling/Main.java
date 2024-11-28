@@ -6,40 +6,36 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.print("Enter the first number: ");
+        double num1 = scanner.nextDouble();
+
+        System.out.print("Enter the second number: ");
+        double num2 = scanner.nextDouble();
+
+        Operation addition = new Addition();
+        Operation subtraction = new Subtraction();
+        Operation division = new Division();
+
+        System.out.println("\nPerforming Addition:");
+        System.out.println(addition.toString() + " result: " + addition.performOperation(num1, num2));
+
+        System.out.println("\nPerforming Subtraction:");
+        System.out.println(subtraction.toString() + " result: " + subtraction.performOperation(num1, num2));
+
+        System.out.println("\nPerforming Division:");
         try {
-            // Accepting two numbers from the user
-            System.out.print("Enter the first number: ");
-            int num1 = scanner.nextInt();
-
-            System.out.print("Enter the second number: ");
-            int num2 = scanner.nextInt();
-
-            // Perform addition
-            int additionResult = num1 + num2;
-            System.out.println("Addition result: " + additionResult);
-
-            // Perform subtraction
-            int subtractionResult = num1 - num2;
-            System.out.println("Subtraction result: " + subtractionResult);
-
-            // Perform division with exception handling for division by zero
-            System.out.println("Trying to perform division...");
-            int divisionResult = num1 / num2;  // May throw ArithmeticException if num2 is 0
-            System.out.println("Division result: " + divisionResult);
-
-            // Simulate NullPointerException
-            String nullString = null;
-            System.out.println("Trying to print the length of a null string...");
-            System.out.println("String length: " + nullString.length());  // This will throw NullPointerException
-
+            System.out.println(division.toString() + " result: " + division.performOperation(num1, num2));
         } catch (ArithmeticException e) {
-            System.out.println("Error: Cannot divide by zero.");
+            System.out.println("Error during division: " + e.getMessage());
+        }
+
+        try {
+            String result = null;
+            System.out.println("Null string length: " + result.length());
         } catch (NullPointerException e) {
-            System.out.println("Error: Null value encountered.");
-        } catch (Exception e) {
-            System.out.println("Error: An unexpected error occurred.");
+            System.out.println("Error: Cannot access methods on a null object.");
         } finally {
-            System.out.println("Exception handling completed.");
+            System.out.println("Program execution completed.");
         }
 
         scanner.close();

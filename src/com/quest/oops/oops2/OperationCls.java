@@ -1,4 +1,8 @@
 package com.quest.oops.oops2;
 
-public class OperationCls {
+interface OperationCls {
+    void borrowBook(Book book);
+    void returnBook(Book book);
+
+
 }

@@ -1,8 +1,9 @@
 package com.quest.oops.exceptionhandling;
 
+import java.util.Scanner;
+
 public class AnimalErrors {
 
-    // Animal class with basic properties
     static class Animal {
         String name;
 
@@ -11,38 +12,67 @@ public class AnimalErrors {
         }
     }
 
-    // 1. Method to demonstrate StackOverflowError (Recursion without termination)
     public static void causeStackOverflow(Animal animal) {
         System.out.println(animal.name + " is asking for help...");
-        causeStackOverflow(animal); // Recursively calls itself (no termination condition)
+        System.out.println("Press 'q' to stop the process.");
+        Scanner scanner = new Scanner(System.in);
+
+        String input = scanner.nextLine();
+        if (input.equalsIgnoreCase("q")) {
+            System.out.println("Process terminated by user.");
+            return;  // Terminate recursion
+        }
+
+        causeStackOverflow(animal);
     }
 
-    // 2. Method to demonstrate OutOfMemoryError (Creating too many objects in memory)
     public static void causeOutOfMemory() {
         int counter = 0;
+        Scanner scanner = new Scanner(System.in);
+
         while (true) {
-            // Continuously create new Animal objects without storing them
+
             Animal animal = new Animal("Animal " + counter++);
             System.out.println("Created: " + animal.name);
+
+            System.out.println("Press 'q' to stop creating objects.");
+            String input = scanner.nextLine();
+            if (input.equalsIgnoreCase("q")) {
+                System.out.println("Process terminated by user.");
+                break;
+            }
         }
     }
 
     public static void main(String[] args) {
-        // StackOverflowError Example
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Choose an option to cause an error or terminate:");
+        System.out.println("1. Cause StackOverflowError");
+        System.out.println("2. Cause OutOfMemoryError");
+        System.out.println("Enter 'q' to quit.");
+        System.out.print("Enter your choice (1 or 2): ");
+
+        String choice = scanner.nextLine();
         try {
-            Animal lion = new Animal("Lion");
-            causeStackOverflow(lion); // Start the recursion
+            if (choice.equals("1")) {
+                Animal lion = new Animal("Lion");
+                causeStackOverflow(lion);
+            } else if (choice.equals("2")) {
+                causeOutOfMemory();
+            } else if (choice.equalsIgnoreCase("q")) {
+                System.out.println("Exiting the program.");
+            } else {
+                System.out.println("Invalid choice! Please enter 1, 2, or 'q' to quit.");
+            }
         } catch (StackOverflowError e) {
             System.out.println("StackOverflowError occurred!");
-            e.printStackTrace(); // Print the stack trace of the error
-        }
-
-        // OutOfMemoryError Example
-        try {
-            causeOutOfMemory(); // Start creating objects in memory
+            e.printStackTrace();
         } catch (OutOfMemoryError e) {
             System.out.println("OutOfMemoryError occurred!");
-            e.printStackTrace(); // Print the stack trace of the error
+            e.printStackTrace();
+        } finally {
+            scanner.close();
         }
     }
 }

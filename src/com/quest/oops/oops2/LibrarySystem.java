@@ -1,31 +1,41 @@
 package com.quest.oops.oops2;
+
 import java.util.Scanner;
 
 public class LibrarySystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Library library = new Library(5, 3); // 5 books capacity, 3 members capacity
+        Library library = new Library(5, 3);
 
-         library.addBook("111", "Java Programming", "Krish");
-         library.addBook("222", "C++ Basics", "David");
-         library.addBook("333", "Advanced Java", "Ashiq");
+        // Add some initial books and members
+        library.addBook("111", "Java Programming", "Krish");
+        library.addBook("222", "Inter Java", "David");
+        library.addBook("333", "Advanced Java", "Ashiq");
 
-         library.addMember("M1", "Nithin", "nithin@example.com");
-         library.addMember("M2", "Krishna", "krishna@example.com");
+        library.addMember("M1", "Nithin", "nithin@example.com");
+        library.addMember("M2", "Krishna", "krishna@example.com");
 
+        // Main loop for the library system
         while (true) {
             System.out.println("\nLibrary Management System");
             System.out.println("1. Display Available Books");
             System.out.println("2. Search for a Book");
-            System.out.println("3. Borrow a Book");
-            System.out.println("4. Return a Book");
+            System.out.println("3. Borrow Book");
+            System.out.println("4. Return Book");
             System.out.println("5. Display All Members");
             System.out.println("6. Add a New Book");
             System.out.println("7. Add a New Member");
             System.out.println("8. Exit");
             System.out.print("Choose an option: ");
-            int choice = scanner.nextInt();
-            scanner.nextLine();
+
+            int choice;
+            try {
+                choice = Integer.parseInt(scanner.nextLine()); // Read choice and handle invalid input
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid input! Please enter a number.");
+                continue;
+            }
+
             switch (choice) {
                 case 1:
                     library.displayAvailableBooks();
@@ -78,5 +88,3 @@ public class LibrarySystem {
         }
     }
 }
-
-

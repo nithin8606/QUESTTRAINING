@@ -1,4 +1,9 @@
 package com.quest.oops.abstraction;
 
-public class Movie {
+// Movie.java
+public interface Movie {
+    void play();
+    String getDetails();
 }
+
+

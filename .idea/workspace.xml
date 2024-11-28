@@ -5,12 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibrarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SubscriberManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/SubscriberManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/SubscriberManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestHashLnkTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestHashTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestLinkSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/BorrowRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/MainBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ActionMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ActionMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ComedyMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ComedyMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/MovieMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/AnimalErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/AnimalErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/SpecialEditionBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/SpecialEditionBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Subtraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/BufferedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/BufferedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/OutputObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/OutputObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/BookCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/BookCls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/CityWeather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/CityWeather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibrarySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibrarySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/OperationCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/OperationCls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/PremiumMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/PremiumMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/CountOfMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/CountOfMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/MainBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/MainBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/OutOfStockException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/OutOfStockException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test1/MainPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test1/MainPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test1/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +93,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +114,9 @@
     &quot;accountId&quot;: &quot;6e84f2a1-8d00-4c87-9300-c74a51a0b5e7&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/quest/oops/test3/TestVector.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -51,67 +128,147 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbstractExample.executor": "Run",
-    "Application.ControlFlow.executor": "Run",
-    "Application.CountOfLetters.executor": "Run",
-    "Application.DuplicateCount.executor": "Run",
-    "Application.FibonacciSeries.executor": "Run",
-    "Application.Gradind.executor": "Run",
-    "Application.Grading.executor": "Run",
-    "Application.LibrarySystem.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main1.executor": "Run",
-    "Application.MatrixArray.executor": "Run",
-    "Application.NumberPalindrome.executor": "Run",
-    "Application.NumberPrinter.executor": "Run",
-    "Application.PracticeOperators.executor": "Run",
-    "Application.PracticeVars.executor": "Run",
-    "Application.ReplaceSum.executor": "Run",
-    "Application.Searcharray.executor": "Run",
-    "Application.SimpleCalculator.executor": "Run",
-    "Application.StockAccessment.executor": "Run",
-    "Application.StockAnalysisProgram.executor": "Run",
-    "Application.StockAnalysisProgram1.executor": "Run",
-    "Application.StudentGrading.executor": "Run",
-    "Application.StudentScores.executor": "Run",
-    "Application.arrayexample.executor": "Run",
-    "Application.com.quest.practice_vars.StockAccessment.executor": "Run",
-    "Application.fibonnaciSeries.executor": "Run",
-    "Application.main.executor": "Debug",
-    "Application.numberPalindrome.executor": "Run",
-    "Application.palindromeCheck.executor": "Run",
-    "Application.primeNumber.executor": "Run",
-    "Application.salary.executor": "Run",
-    "Application.sortarray.executor": "Run",
-    "Application.starPattern.executor": "Run",
-    "Application.studentscore.executor": "Run",
-    "Application.sumOfDigits.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "I:/Questtraining/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalErrors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControlFlow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOfLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOfMissing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileHandling2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileHandling3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileInputStreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gradind.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibrarySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainPerson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeVars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searcharray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StockAccessment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StockAnalysisProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StockAnalysisProgram1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentScores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashLnkTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHashTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestLinkSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestLinkedHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestTreeMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestTreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestVector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeatherMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayexample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.quest.oops.abstraction.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.quest.oops.exceptionhandling.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.quest.practice_vars.StockAccessment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonnaciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.numberPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindromeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.starPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.studentscore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;I:/Questtraining/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LibrarySystem">
-    <configuration name="LibrarySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.oops2.LibrarySystem" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.quest.casestudy" />
+      <recent name="com.quest.oops.exceptionhandling" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BufferedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.filehandling.BufferedClass" />
       <module name="Questtraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quest.oops.oops2.*" />
+          <option name="PATTERN" value="com.quest.filehandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.oops.filehandling.FileHandling" />
+      <module name="Questtraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quest.oops.filehandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileHandling2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.oops.filehandling.FileHandling2" />
+      <module name="Questtraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quest.oops.filehandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileHandling3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quest.oops.filehandling.FileHandling3" />
+      <module name="Questtraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quest.oops.filehandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,63 +277,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.encapsulation.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.quest.casestudy.Main" />
       <module name="Questtraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quest.oops.encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockAccessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.StockAccessment" />
-      <module name="Questtraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.quest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockAccessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.StockAccessment" />
-      <module name="Questtraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.quest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockAnalysisProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.practice_vars.StockAnalysisProgram" />
-      <module name="Questtraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.quest.oops.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockAnalysisProgram1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quest.oops.inheritance.StockAnalysisProgram1" />
-      <module name="Questtraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.quest.oops.inheritance.*" />
+          <option name="PATTERN" value="com.quest.casestudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LibrarySystem" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StockAnalysisProgram1" />
-        <item itemvalue="Application.StockAnalysisProgram" />
-        <item itemvalue="Application.StockAccessment" />
+        <item itemvalue="Application.BufferedClass" />
+        <item itemvalue="Application.FileHandling" />
+        <item itemvalue="Application.FileHandling2" />
+        <item itemvalue="Application.FileHandling3" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +342,21 @@
       <workItem from="1731660620702" duration="633000" />
       <workItem from="1731670977896" duration="1579000" />
       <workItem from="1731902221548" duration="9435000" />
-      <workItem from="1731987446264" duration="21030000" />
+      <workItem from="1731987446264" duration="21244000" />
+      <workItem from="1732074209645" duration="10999000" />
+      <workItem from="1732091517587" duration="7248000" />
+      <workItem from="1732098864041" duration="2087000" />
+      <workItem from="1732162807507" duration="3482000" />
+      <workItem from="1732246497790" duration="9376000" />
+      <workItem from="1732265190281" duration="6779000" />
+      <workItem from="1732510662402" duration="1852000" />
+      <workItem from="1732512624205" duration="8606000" />
+      <workItem from="1732594951882" duration="1900000" />
+      <workItem from="1732604188279" duration="3073000" />
+      <workItem from="1732610538193" duration="9600000" />
+      <workItem from="1732691576673" duration="10957000" />
+      <workItem from="1732766127960" duration="19764000" />
+      <workItem from="1732792437066" duration="1149000" />
     </task>
     <servers />
   </component>

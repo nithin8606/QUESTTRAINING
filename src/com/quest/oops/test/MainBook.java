@@ -1,4 +1,6 @@
-package com.quest.oops.exceptionhandling;
+package com.quest.oops.test;
+
+import com.quest.oops.exceptionhandling.SpecialEditionBook;
 
 import java.util.Scanner;
 

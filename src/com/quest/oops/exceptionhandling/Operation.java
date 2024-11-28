@@ -1,9 +1,8 @@
 package com.quest.oops.exceptionhandling;
 
-
-
-public interface StudentOperations {
-    void addStudent(int id, String name, double grade);
-    void viewStudent(int id);
+public interface Operation {
+    double performOperation(double num1, double num2);
 }
+
+
 

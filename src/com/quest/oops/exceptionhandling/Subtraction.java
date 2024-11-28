@@ -1,23 +1,14 @@
 package com.quest.oops.exceptionhandling;
 
-
-public class GraduateStudent extends Student {
-
-    private String thesisTitle;
-
-    public GraduateStudent(int id, String name, double grade, String thesisTitle) {
-        super(id, name, grade);
-        this.thesisTitle = thesisTitle;
-    }
-
-    public String getThesisTitle() {
-        return thesisTitle;
+public class Subtraction implements Operation {
+    @Override
+    public double performOperation(double num1, double num2) {
+        return num1 - num2;
     }
 
     @Override
     public String toString() {
-        return super.toString() + ", Thesis Title: " + thesisTitle;
+        return "Subtraction";
     }
 }
-
 
