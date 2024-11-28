@@ -6,16 +6,16 @@ import java.util.*;
 public class SubscriberManagementSystem implements SubscriberManagement {
     private static Map<String, Subscriber> subscribers = new HashMap<>();
     private static Map<String, List<Call>> callHistory = new HashMap<>();
-    private static final String DATA_FILE = "subscribers_data.ser";
-    private static final String DIRECTORY_PATH = "I:\\Questtraining";
+    private static final String DATA_FILE = "data.txt";
 
     // Load data from file
     public static void loadData() {
-        File file = new File(DIRECTORY_PATH + DATA_FILE);
+        File file = new File(DATA_FILE);
         if (file.exists()) {
             try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file))) {
                 subscribers = (Map<String, Subscriber>) ois.readObject();
                 callHistory = (Map<String, List<Call>>) ois.readObject();
+                System.out.println("Data loaded successfully.");
             } catch (IOException | ClassNotFoundException e) {
                 System.out.println("Error loading data: " + e.getMessage());
             }
@@ -26,12 +26,9 @@ public class SubscriberManagementSystem implements SubscriberManagement {
 
     // Save data to file
     public static void saveData() {
-        File directory = new File(DIRECTORY_PATH);
-        if (!directory.exists()) {
-            directory.mkdirs(); // Create directories if they don't exist
-        }
 
-        File file = new File(DIRECTORY_PATH + DATA_FILE);
+        File file = new File(DATA_FILE);
+
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(file))) {
             oos.writeObject(subscribers);
             oos.writeObject(callHistory);
@@ -110,9 +107,4 @@ public class SubscriberManagementSystem implements SubscriberManagement {
         }
     }
 
-    public static void main(String[] args) {
-        loadData();
-
-        // Use the menu-driven system here or call methods as per your needs
-    }
 }

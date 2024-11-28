@@ -5,85 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SubscriberManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/SubscriberManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/SubscriberManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestHashLnkTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestHashTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestLinkSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestLinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestTreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/TestVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/collection/queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/BorrowRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/oops/test2/MainBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ActionMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ActionMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ComedyMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/ComedyMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/MovieMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/abstraction/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/AnimalErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/AnimalErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/SpecialEditionBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/SpecialEditionBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/exceptionhandling/Subtraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/BufferedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/BufferedClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/FileHandling3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/OutputObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/OutputObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/filehandling/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/filehandling/Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/Memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/memoryallocation/StringExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/BookCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/BookCls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/CityWeather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/CityWeather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibraryOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibrarySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/LibrarySystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/OperationCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/OperationCls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/PremiumMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/PremiumMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/oops2/WeatherReportGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/CountOfMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/CountOfMissing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/InventoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/MainBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/MainBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test/OutOfStockException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test/OutOfStockException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test1/MainPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test1/MainPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/oops/test1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/oops/test1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/casestudy/SubscriberManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/casestudy/SubscriberManagementSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +279,8 @@
       <workItem from="1732610538193" duration="9600000" />
       <workItem from="1732691576673" duration="10957000" />
       <workItem from="1732766127960" duration="19764000" />
-      <workItem from="1732792437066" duration="1149000" />
+      <workItem from="1732792437066" duration="1629000" />
+      <workItem from="1732794088968" duration="1058000" />
     </task>
     <servers />
   </component>
