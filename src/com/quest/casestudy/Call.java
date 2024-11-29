@@ -3,8 +3,8 @@ package com.quest.casestudy;
 import java.io.Serializable;
 
 public class Call implements Serializable {
-    private String callType;  // Local, STD, ISD
-    private double duration;  // Duration in minutes
+    private String callType;
+    private double duration;
 
     public Call(String callType, double duration) {
         this.callType = callType;

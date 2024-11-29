@@ -1,12 +1,13 @@
 package com.quest.oops.collection;
 
 public class Person implements Cloneable {
+    public int id;
     private String name;
     private int age;
     private String gender;
-    private String location; // Changed to String
+    private String location;
 
-    // Constructor
+
     public Person(String name, int age, String gender, String location) {
         this.name = name;
         this.age = age;
@@ -31,7 +32,7 @@ public class Person implements Cloneable {
         return location;
     }
 
-    // Clone method
+
     @Override
     public Person clone() {
         try {
