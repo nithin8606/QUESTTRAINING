@@ -5,152 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/CharacterCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/CountOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/FirstDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/FirstDuplicateSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/ListToSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/MergeDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/ProductPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/RemoveDivisibleByThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/RemoveEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/SecondLargestList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/SetContainsAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/SetOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/SortMapByKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test/WordCountMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/DuplicateTrackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/PlaylistAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/casestudy/Call.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/casestudy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/casestudy/Subscriber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/casestudy/SubscriberManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/casestudy/SubscriberManagementSystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/filehandling/BufferedClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/filehandling/OutputObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/memoryallocation/StringExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/AbstractExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/ActionMovie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/ComedyMovie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/MovieMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/OfflineStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/OnlineStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/RegularStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/abstraction/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestHashLnkTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestHashTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestLinkSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestLinkedHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestTreeMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestTreeSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/TestVector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/collection/queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/CurrentAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/Deposit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/SavingsAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/encapsulation/Withdraw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/AnimalErrors$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/AnimalErrors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Division.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/EmployeeDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/ExceptionHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/InvalidInputException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/SpecialEditionBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/exceptionhandling/Subtraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/filehandling/FileHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/filehandling/FileHandling2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/filehandling/FileHandling3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/filehandling/FileInputStreamExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/filehandling/Stream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Commodity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Equity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/SoftwareProject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/Stock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/StockAnalysisProgram1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/student1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/inheritance/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/memoryallocation/Memory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/BookCls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/CityWeather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/LibraryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/LibraryManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/LibraryMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/LibraryOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/LibrarySystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/OperationCls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/PremiumMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/WeatherMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/WeatherOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/oops2/WeatherReportGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test/CountOfMissing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test/InventoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test/MainBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test/OutOfStockException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test1/MainPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test2/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test2/BorrowRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test2/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/oops/test2/MainBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/ControlFlow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/CountOfLetters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/DuplicateCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/FibonacciSeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/Grading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/MatrixArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/NumberPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/PracticeOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/PracticeVars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/ReplaceSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/SalaryManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/Searcharray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/SecondLargestOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/SimpleCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/StudentScores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/arrayexample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/methodexample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/palindromeCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/primeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/sortarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/starPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/sumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/typecastingeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/practice_vars/wrapperclass.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,6 +68,7 @@
     "Application.CountOfLetters.executor": "Run",
     "Application.CountOfMissing.executor": "Run",
     "Application.DuplicateCount.executor": "Run",
+    "Application.EmployeeSearch.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
@@ -236,6 +98,7 @@
     "Application.OutputObject.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.PersonMain.executor": "Run",
+    "Application.PlaylistManagerMain.executor": "Run",
     "Application.PracticeOperators.executor": "Run",
     "Application.PracticeVars.executor": "Run",
     "Application.ProductPrice.executor": "Run",
@@ -277,6 +140,7 @@
     "Application.com.quest.oops.abstraction.Main.executor": "Run",
     "Application.com.quest.oops.exceptionhandling.Main.executor": "Run",
     "Application.com.quest.practice_vars.StockAccessment.executor": "Run",
+    "Application.com.quest.quest.assessment.Main.executor": "Run",
     "Application.fibonnaciSeries.executor": "Run",
     "Application.main.executor": "Debug",
     "Application.numberPalindrome.executor": "Run",
@@ -452,7 +316,8 @@
       <workItem from="1732792437066" duration="1629000" />
       <workItem from="1732794088968" duration="2636000" />
       <workItem from="1732869079529" duration="11864000" />
-      <workItem from="1733111584429" duration="5907000" />
+      <workItem from="1733111584429" duration="6242000" />
+      <workItem from="1733198180456" duration="11015000" />
     </task>
     <servers />
   </component>
