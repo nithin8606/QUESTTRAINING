@@ -39,18 +39,20 @@ public class Playlist {
         Collections.shuffle(tracks);
     }
 
-    public void toggleFavorite(String trackName) {
-        for (Track track : tracks) {
-            if (track.getName().equalsIgnoreCase(trackName)) {
-                track.toggleFavorite();
-                break;
-            }
-        }
-    }
 
     @Override
     public String toString() {
         return name + " (" + tracks.size() + " tracks)";
     }
+
+    public Track getTrackByName(String name) {
+        for (Track track : tracks) {
+            if (track.getName().equalsIgnoreCase(name)) {
+                return track;
+            }
+        }
+        return null;
+    }
 }
+
 

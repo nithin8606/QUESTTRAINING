@@ -21,10 +21,6 @@ public class Track {
         return duration;
     }
 
-    public double getRating() {
-        return rating;
-    }
-
     public boolean isFavorite() {
         return isFavorite;
     }

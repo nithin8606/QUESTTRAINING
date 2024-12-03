@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/DuplicateTrackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Playlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/PlaylistAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/OperationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/test/GroupByFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/test/PartitionOfList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/assessment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/assessment/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/assessment/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/quest/quest/assessment/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/quest/quest/assessment/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
     "Application.FirstDuplicateSet.executor": "Run",
     "Application.Gradind.executor": "Run",
     "Application.Grading.executor": "Run",
+    "Application.GroupByFrequency.executor": "Run",
     "Application.LibraryManagement.executor": "Run",
     "Application.LibrarySystem.executor": "Run",
     "Application.ListToSet.executor": "Run",
@@ -96,6 +98,7 @@
     "Application.NumberPalindrome.executor": "Run",
     "Application.NumberPrinter.executor": "Run",
     "Application.OutputObject.executor": "Run",
+    "Application.PartitionOfList.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.PersonMain.executor": "Run",
     "Application.PlaylistManagerMain.executor": "Run",
@@ -133,6 +136,7 @@
     "Application.TestTreeMap.executor": "Run",
     "Application.TestTreeSet.executor": "Run",
     "Application.TestVector.executor": "Run",
+    "Application.TopKFrequent.executor": "Run",
     "Application.WeatherMain.executor": "Run",
     "Application.WordCount.executor": "Run",
     "Application.WordCountMap.executor": "Run",
@@ -317,7 +321,7 @@
       <workItem from="1732794088968" duration="2636000" />
       <workItem from="1732869079529" duration="11864000" />
       <workItem from="1733111584429" duration="6242000" />
-      <workItem from="1733198180456" duration="11015000" />
+      <workItem from="1733198180456" duration="24302000" />
     </task>
     <servers />
   </component>

@@ -43,5 +43,9 @@ public class User {
     public String toString() {
         return "User ID: " + id + "\nName: " + name + "\nPlaylists: " + playlists.size() + " Playlist(s)\nFavorite Tracks: " + favoriteTracks.size() + " Track(s)";
     }
+
+    public void removeFavoriteTrack(Track track) {
+        favoriteTracks.remove(track);
+    }
 }
 
