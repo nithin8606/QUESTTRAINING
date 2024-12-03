@@ -3,7 +3,7 @@ package com.quest.quest.assessment;
 import java.util.*;
 
 
-public class Main implements PlaylistAction {
+public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final List<User> users = new ArrayList<>();
 
@@ -324,63 +324,4 @@ public class Main implements PlaylistAction {
         return null;
     }
 
-    @Override
-    public void createUser(String userId, String userName) {
-        
-    }
-
-    @Override
-    public User fetchUserById(String userId) {
-        return null;
-    }
-
-    @Override
-    public void createPlaylist(String userId, String playlistName) {
-
-    }
-
-    @Override
-    public void addTrackToPlaylist(String userId, String playlistName, String trackName, double duration) {
-
-    }
-
-    @Override
-    public void removeTrackFromPlaylist(String userId, String playlistName, String trackName) {
-
-    }
-
-    @Override
-    public void sortPlaylistByDuration(String userId, String playlistName) {
-
-    }
-
-    @Override
-    public void shufflePlaylist(String userId, String playlistName) {
-
-    }
-
-    @Override
-    public List<Playlist> getPlaylists(String userId) {
-        return List.of();
-    }
-
-    @Override
-    public void rateTrack(String userId, String playlistName, String trackName, double rating) {
-
-    }
-
-    @Override
-    public void markUnmarkFavorite(String userId, String playlistName, String trackName) {
-
-    }
-
-    @Override
-    public List<Track> getFavoriteTracks(String userId) {
-        return List.of();
-    }
-
-    @Override
-    public void mergePlaylists(String userId, String playlistName1, String playlistName2) {
-
-    }
 }
