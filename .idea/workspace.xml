@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afaf8eeb-2b30-4609-9726-271ff9f1bcde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/casestudy22/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/casestudy22/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/casestudy22/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/casestudy22/SalesManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/casestudy/casestudy22/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test1/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test1/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quest/test1/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/thread/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/quest/thread/Message.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +66,7 @@
     "Application.DuplicateCount.executor": "Run",
     "Application.EmployeeSearch.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.FileHandling.executor": "Run",
@@ -102,6 +96,7 @@
     "Application.MatrixArray.executor": "Run",
     "Application.MergeDuplicate.executor": "Run",
     "Application.MergeList.executor": "Run",
+    "Application.Message.executor": "Run",
     "Application.MovieMain.executor": "Run",
     "Application.NumberPalindrome.executor": "Run",
     "Application.NumberPrinter.executor": "Run",
@@ -334,6 +329,7 @@
       <workItem from="1733198180456" duration="24302000" />
       <workItem from="1733296044115" duration="3825000" />
       <workItem from="1733458265282" duration="5695000" />
+      <workItem from="1733481747278" duration="5218000" />
     </task>
     <servers />
   </component>
