@@ -1,0 +1,4 @@
+Total revenue generated from all services: 270.0
+Service count by type:
+Oil Change: 1
+Battery Check: 1
