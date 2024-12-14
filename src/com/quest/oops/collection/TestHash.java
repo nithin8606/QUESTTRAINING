@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Random;
 import java.util.TreeSet;
+import java.util.stream.Stream;
 
 public class TestHash {
     public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class TestHash {
         for (int i = 1; i <= 100; i++) {
             hashSet1.add(i);
         }
+        System.out.println();
 
         System.out.println("HashSet1 Elements: " + hashSet1);
 
@@ -33,7 +35,6 @@ public class TestHash {
 
         TreeSet<Integer> treeSet2 = new TreeSet<>(hashSet2);
         System.out.println("TreeSet2 Elements: " + treeSet2);
-
 
         HashSet<Integer> hashSet3 = new HashSet<>();
         hashSet3.add(null);

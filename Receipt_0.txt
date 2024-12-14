@@ -1,0 +1,6 @@
+Transaction ID: 0
+Customer Name: Jane Smith
+Customer Contact: 555-5678
+Vehicle Sold: Ford Focus
+Quantity: 1
+Total Amount: $20000.0
